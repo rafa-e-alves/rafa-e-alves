@@ -1,16 +1,15 @@
-## Hi there 👋
+### Rafael Evangelista Alves
 
-<!--
-**rafa-e-alves/rafa-e-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de TI Jr III numa corretora de seguros em BH, cuidando de infra, redes, suporte e desenvolvimento interno. Base formal recente (ADS, jul/2025), prática além do papel.
 
-Here are some ideas to get you started:
+Direção atual: segurança de aplicações. Não só apontar falha em relatório, pegar uma aplicação web, achar o problema e corrigir. Trilha em andamento, registrada em [appsec-journal](https://github.com/rafa-e-alves/appsec-journal).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack que uso no dia a dia**
+
+Next.js · TypeScript · Tailwind · Prisma · Python · PowerShell · SQL
+
+**No ar**
+
+[surreal-bot](https://github.com/rafa-e-alves/surreal-bot) — bot de Discord em produção numa VM Oracle Cloud
+
+Parte relevante do que entrego hoje vem de trabalhar junto com IA como ferramenta de arquitetura e revisão, não como muleta. Isso está sendo fechado ativamente, não escondido.
