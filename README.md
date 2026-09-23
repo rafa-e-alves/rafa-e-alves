@@ -14,6 +14,8 @@ Direção atual: segurança de aplicações. Não só apontar falha em relatóri
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafa-e-alves&theme=dark&hide_border=true)
+
 **No ar**
 
 [surreal-bot](https://github.com/rafa-e-alves/surreal-bot) — bot de Discord em produção numa VM Oracle Cloud
